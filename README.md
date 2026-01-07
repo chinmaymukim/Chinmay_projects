@@ -1,3 +1,3 @@
 # Chinmay_projects
-Projects
+Master of Science in Data Analytics Projects
 
