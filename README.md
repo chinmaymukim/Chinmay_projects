@@ -1,2 +1,2 @@
 # Academic projects
-Master of Science in Data Analytics Projects
+Master of Science in Data Analytics Projects.
